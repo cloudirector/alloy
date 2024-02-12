@@ -1,7 +1,7 @@
 {
-  "name": "Alloy",
-  "description": "A Titanium Network web proxy.",
-  "repository": "https://github.com/titaniumnetwork-dev/alloy/",
-  "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
-  "keywords": ["alloy", "proxy", "web-unblocker", "internet", "alloyproxy"]
+  "name": "cloudirectors proxy",
+  "description": "A web proxy meant for light personal use.",
+  "repository": "https://github.com/cloudirector/cloudirectors-proxy/",
+  "logo": "https://avatars.githubusercontent.com/u/143876484?s=200&v=4",
+  "keywords": ["proxy", "web-unblocker", "internet"]
 }
