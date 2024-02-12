@@ -1,7 +1,7 @@
 {
-  "name": "alloy",
-  "version": "2.5.0",
-  "description": "A web proxy.",
+  "name": "cloudirectors proxy",
+  "version": "1.0.0",
+  "description": "A personal web proxy meant for light personal use.",
   "main": "server.js",
   "directories": {
     "lib": "lib"
@@ -16,13 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/alloy.git"
+    "url": "git+https://github.com/cloudirector/cloudirectors-proxy.git"
   },
   "keywords": [
     "proxy",
-    "titanium network",
-    "alloy",
-    "alloyproxy",
     "web unblocker",
     "unblock",
     "web proxy",
@@ -30,10 +27,10 @@
     "workplace",
     "web filter"
   ],
-  "author": "Titanium Network",
+  "author": "cloudirector",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/alloy/issues"
+    "url": "https://github.com/cloudirector/cloudirectors-proxy/issues"
   },
-  "homepage": "https://github.com/titaniumnetwork-dev/alloy#readme"
+  "homepage": "https://github.com/cloudirector/cloudirectors-proxy"
 }
