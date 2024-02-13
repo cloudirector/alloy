@@ -1,5 +1,5 @@
 {
-  "name": "cloudirectors proxy",
+  "name": "cloudirectors-proxy",
   "version": "1.0.0",
   "description": "A personal web proxy meant for light personal use.",
   "main": "server.js",
