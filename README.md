@@ -1,5 +1,5 @@
 # cloudirector's Proxy
-> A web proxy for my own light personal use.
+> A web proxy for my own light personal use; also forked.
 
 > ## Running in the cloud
 >> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cloudirector/cloudirectors-proxy/tree/master)
